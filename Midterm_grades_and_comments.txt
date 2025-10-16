@@ -1,0 +1,32 @@
+
+Part I Scores: 17
+
+Part 2 Grading Rubrics:
+Problem 1:
+- add_item function:                5 out of 5 points
+- calculate_total function:         5 out of 5 points  
+
+Problem 2:
+- add_student_to_club:              5 out of 5 points
+- get_students_in_multiple_clubs:   5 out of 5 points
+- find_exclusive_members:           5 out of 5 points
+
+Problem 4:
+- clean_message:                    3 out of 5 points
+- expand_abbreviations:             5 out of 5 points
+- count_words:                      3 out of 5 points
+- censor_numbers:                   5 out of 5 points
+
+
+
+Total: 41
+
+Great job, Tavares, Keep it up!
+
+Details:
+1. Line 77: 
+    1. wrong level of indentation of return 
+    2. missing remove multiple spaces
+    3. missing remove .?! at end of sentences
+2. Line 91:
+    1. Missing the building word count dictionary part
